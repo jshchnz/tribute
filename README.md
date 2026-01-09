@@ -19,7 +19,7 @@ Copy the skill file to your Claude Code commands directory:
 
 ```bash
 curl -o ~/.claude/commands/tribute.md \
-  https://raw.githubusercontent.com/jshchnz/oss-tribute/main/tribute.md
+  https://raw.githubusercontent.com/jshchnz/tribute/main/tribute.md
 ```
 
 Verify it worked:
